@@ -1,0 +1,7 @@
+{
+    "require": {
+        "podio/podio-php": "^4.2",
+        "zendframework/zendservice-livedocx": "^2.0",
+        "phpmailer/phpmailer": "^5.2"
+    }
+}
